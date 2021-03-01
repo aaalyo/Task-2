@@ -1,0 +1,47 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+    color: royalblue
+}
+
+h3 {
+    text-align: center;
+    color: green;
+    font-style: italic;
+}
+
+.list-heading {
+    text-align: center;
+    font-weight: bold;
+}
+
+ul {
+    margin-bottom: 0%;
+}
+
+.quote {
+    font-size: larger;
+    margin-left: 40px;
+}
+
+.name-under-quote {
+    margin-left: 40px;
+}
+
+.wikilink {
+    font-size: larger;
+    color: indigo
+}
+
+.wikilink a {
+    color: royalblue;
+    font-style: italic;
+    text-decoration: none;
+}
